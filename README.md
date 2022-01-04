@@ -1,7 +1,7 @@
 ![commits](https://img.shields.io/github/last-commit/kellibelcher/IBM-Machine-Learning-Professional-Certificate?label=Last%20Commit%20)
 
 <h1 align="center">
-  IBM Machine Learning Professional Certificate
+  Coursera Machine Learning Professional Certificate
 </h1> 
 
 <p align="center">
