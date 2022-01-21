@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/badge/Jupyter-%23F37725.svg?style=plastic&logo=jupyter&logoColor=white"/>
 </p> 
 
-This program is designed to develop working skills in the main areas of Machine Learning: **Supervised Learning**, **Unsupervised Learning**, **Deep Learning**, and **Reinforcement Learning**, as well as specialized topics, including **Time Series Analysis** and **Survival Analysis**.
+This program is designed to develop working skills in the main areas of Machine Learning: **Supervised Learning**, **Unsupervised Learning**, **Deep Learning**, and **Reinforcement Learning**, as well as in specialized topics including **Time Series Analysis** and **Survival Analysis**.
 
 ## Exploratory Data Analysis for Machine Learning :zap:
-- Analyzed iris flowers and developed a [multinomial classification model](https://www.kaggle.com/kellibelcher/multinomial-classification-of-iris-species) to predict flower species.
+- Analyzed iris flowers and developed a **[multinomial classification model](https://www.kaggle.com/kellibelcher/multinomial-classification-of-iris-species)** to predict flower species.
 - **[People Analytics](https://www.kaggle.com/kellibelcher/exploratory-data-analysis-with-plotly)** Final Project: An interactive analysis of employee attrition with Plotly and random forests.
 
 ## Supervised Machine Learning: Regression 🚀
-- Developed a [set of Gradient Boosting models](https://www.kaggle.com/kellibelcher/predicting-insurance-costs-by-region-with-xgboost?scriptVersionId=82686431) to predict insurance costs by region.
+Using data from a health insurance company, I analyzed factors that lead to higher claim amounts and developed a **[suite of Gradient Boosting models](https://www.kaggle.com/kellibelcher/insurance-price-predictions-by-region)** to predict insurance costs by region.
