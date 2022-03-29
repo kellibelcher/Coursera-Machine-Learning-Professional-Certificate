@@ -19,8 +19,11 @@ This program is designed to develop working skills in the main areas of Machine 
 - Analyzed iris flowers and developed a **[multinomial classification model](https://www.kaggle.com/kellibelcher/multinomial-classification-of-iris-species)** to predict flower species.
 - **[People Analytics](https://www.kaggle.com/kellibelcher/exploratory-data-analysis-with-plotly)** Final Project: An interactive analysis of employee attrition with Plotly and Random Forests.
 
-## Supervised Machine Learning: Regression 🚀
+## Supervised Machine Learning: Regression ✨
 > Using data from a health insurance company, this project analyzes factors that lead to higher claim amounts and develops a **[suite of regression models](https://www.kaggle.com/kellibelcher/predicting-insurance-prices-across-regions)** to predict insurance costs by region.
 
-## Supervised Machine Learning: Classification ✨
-> To detect cardiovascular disease, Shapley values were used to develop a **[Gradient Boosting model](https://www.kaggle.com/kellibelcher/heart-disease-predictions-eda-with-plotly)** that can predict the likelihood of a heart failure diagnosis with an Area Under the Curve of 0.927. Key indicators of heart disease and their influence in predicting a positive diagnosis were identified through Exploratory Data Analysis and SHAP feature values. 
+## Supervised Machine Learning: Classification 🚀
+> To detect cardiovascular disease, Shapley values were used to develop a **[Gradient Boosting model](https://www.kaggle.com/kellibelcher/heart-disease-predictions-eda-with-plotly)** that can predict the likelihood of a heart failure diagnosis with an Area Under the Curve of 0.927. Key indicators of heart disease and their influence in predicting a positive diagnosis were identified through Exploratory Data Analysis and Shapley Additive Explanations. 
+
+## Unsupervised Machine Learning 🛸
+> To assist a supermarket increase their membership card conversion rate, **[three clustering models](https://www.kaggle.com/kellibelcher/customer-segmentation-and-clustering-analysis)** were developed: K-Means Clustering, Hierarchical Clustering, and DBSCAN. A customer segmentation analysis was performed to gain a better understanding of the types of customers the company has and identify strategies to market to each group more effectively based on the cluster profiles.
